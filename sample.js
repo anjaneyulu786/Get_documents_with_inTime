@@ -14,7 +14,7 @@ function readURL(input) {
     }
   }
 
-// Image Update And Save Function
+// Image Update And Save Function 
 
 function updateBusinessImage () {
     var filesSelected = document.getElementById ("chooseImg").files;
