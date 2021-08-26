@@ -12,7 +12,7 @@ function readURL(input) {
     } else {
       error: "File Not Supported..";
     }
-  }
+  } 
 
 // Image Update And Save Function 
 
